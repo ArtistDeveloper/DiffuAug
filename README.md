@@ -1,5 +1,5 @@
 # DiffuAug
-This repository contains code for training a model to generate breast MRI using Classifier-Free-Diffusion-Guidance and sampling with DDPM and DDIM.
+This repository contains code for training a model to generate breast MRI using Classifier-Free-Diffusion-Guidance and sampling with DDPM and DDIM. I utilized the generated data to supplement the initial training dataset and assessed its performance. The results indicated an increase in the Area Under the Curve (AUC) to 0.91.
 
 <br/>
 
